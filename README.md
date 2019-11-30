@@ -1,7 +1,7 @@
 # Storage Engine App
 Self-made desktop application as course project for Technician University
 
-##Задание – курсов проект по ООП
+## Задание – курсов проект по ООП
 *Storage Engine App*
 
 *Приложение за съхраняване на данни и частична симулация работата на различни видове ел. двигатели*
