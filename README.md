@@ -1,5 +1,5 @@
 # Storage Engine App
-Self-made desktop application as course project for Technician University
+Self-made desktop application as course project for Technical University of Sofia
 
 ## Задание – курсов проект по ООП
 *Storage Engine App*
